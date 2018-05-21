@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RetinaProject</string>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="clinicType">
+        <item>Private</item>
+        <item>Government</item>
+    </string-array>
+
+
+</resources>
