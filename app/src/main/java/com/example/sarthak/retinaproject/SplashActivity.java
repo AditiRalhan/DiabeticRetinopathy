@@ -8,14 +8,29 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import org.opencv.android.OpenCVLoader;
 
 public class SplashActivity extends AppCompatActivity {
 
     Animation anim1;
+    private static final String TAG = "SplashActivity";
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
+
+
+        if(!OpenCVLoader.initDebug()){
+            //Log.d(TAG, "OpenCV not loaded");
+            Toast.makeText(SplashActivity.this,"OpenCV not loaded",Toast.LENGTH_LONG).show();
+        } else {
+            //Log.d(TAG, "OpenCV loaded");
+            Toast.makeText(SplashActivity.this,"OpenCV loaded !!! ",Toast.LENGTH_LONG).show();
+        }
 
         TextView logo11=(TextView)findViewById(R.id.logo1);
         ImageView logoimage=(ImageView)findViewById(R.id.logoimg);
@@ -29,7 +44,7 @@ public class SplashActivity extends AppCompatActivity {
             @Override
             public void run()
             {
-                Intent i=new Intent(SplashActivity.this,MainActivity.class);
+                Intent i=new Intent(SplashActivity.this,LoginActivity.class);
                 startActivity(i);
                 finish();
             }
