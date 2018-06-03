@@ -38,6 +38,7 @@ public class SplashActivity extends AppCompatActivity {
         logo11.startAnimation(anim1);
 
 
+
         new Handler().postDelayed(new Runnable()
         {
 

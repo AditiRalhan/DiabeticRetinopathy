@@ -16,10 +16,12 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthUserCollisionException;
+import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class RegisterActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
+    FirebaseUser user1;
     Spinner etgen, etclinicType;
     EditText etname, etemail, etpassword, etage, etclinicName, etPhoneNumber;
     String name, email, password, age, clinicName, PhoneNumber , gender, clinicType ;
@@ -157,8 +159,17 @@ public class RegisterActivity extends AppCompatActivity {
                             }
                             else
                             {
-                                Toast.makeText(getApplicationContext(), "Registered Successfully", Toast.LENGTH_SHORT).show();
-
+                                user1 = mAuth.getCurrentUser();
+                                if(user1!=null)
+                                {
+                                    user1.sendEmailVerification().addOnCompleteListener(new OnCompleteListener<Void>() {
+                                        @Override
+                                        public void onComplete(@NonNull Task<Void> task)
+                                        {
+                                            Toast.makeText(getApplicationContext(), "Please Verify your Email ", Toast.LENGTH_SHORT).show();
+                                        }
+                                    });
+                                }
                                 Intent i =new Intent(getApplicationContext(),LoginActivity.class);
                                 startActivity(i);
                                 finish();
@@ -175,6 +186,14 @@ public class RegisterActivity extends AppCompatActivity {
 
             }
         });
+
+
+
+
+
+
+
+
 
     }
 

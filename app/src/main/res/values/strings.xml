@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RetinaProject</string>
+    <string name="app_name">GlaucomaDetector</string>
 
     <string-array name="Gender">
         <item>Male</item>
