@@ -40,6 +40,10 @@ public class DashboardActivity extends AppCompatActivity
                 finish();
                 startActivity(new Intent(this,LoginActivity.class));
                 break;
+            case R.id.captureRetina:
+                Intent i=new Intent(getApplicationContext(),MainActivity.class);
+                startActivity(i);
+                break;
         }
         return true;
     }
@@ -81,7 +85,7 @@ public class DashboardActivity extends AppCompatActivity
 
     public void cardCheck(View view)
     {
-        Intent i=new Intent(getApplicationContext(),MainActivity.class);
+        Intent i=new Intent(getApplicationContext(),PatientFormActivity.class);
         startActivity(i);
     }
 }

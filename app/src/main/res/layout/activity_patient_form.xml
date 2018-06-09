@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#198cd4"
-    tools:context="com.example.sarthak.retinaproject.RegisterActivity"
+    tools:context="com.example.sarthak.retinaproject.PatientFormActivity"
     android:orientation="vertical">
 
     <RelativeLayout
@@ -20,8 +20,8 @@
         android:padding="20dp">
 
         <ScrollView
-          android:layout_width="match_parent"
-          android:layout_height="wrap_content">
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
             <LinearLayout
                 android:layout_width="fill_parent"
@@ -34,7 +34,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Register"
+                    android:text="Patient Form"
                     android:textSize="30dp"
                     android:layout_marginTop="6dp"
                     android:textColor="#000"
@@ -45,7 +45,7 @@
 
 
                 <EditText
-                    android:id="@+id/regName"
+                    android:id="@+id/PatientName"
                     android:layout_width="fill_parent"
                     android:layout_height="50dp"
                     android:singleLine="true"
@@ -59,36 +59,7 @@
                     android:inputType="text" />
 
                 <EditText
-                    android:id="@+id/regEmail"
-                    android:layout_width="fill_parent"
-                    android:layout_height="50dp"
-                    android:singleLine="true"
-                    android:paddingLeft="20dp"
-                    android:textColor="#000"
-                    android:hint="User Name/Email"
-                    android:textColorHint="#000"
-                    android:textColorHighlight="@color/colorPrimary"
-                    android:layout_marginTop="15dp"
-                    android:background="@drawable/rectgray"
-                    android:inputType="textEmailAddress" />
-
-
-                <EditText
-                    android:id="@+id/regPassword"
-                    android:layout_width="fill_parent"
-                    android:layout_height="50dp"
-                    android:singleLine="true"
-                    android:paddingLeft="20dp"
-                    android:textColor="#000"
-                    android:hint="Password"
-                    android:textColorHint="#000"
-                    android:textColorHighlight="@color/colorPrimary"
-                    android:layout_marginTop="15dp"
-                    android:background="@drawable/rectgray"
-                    android:inputType="textPassword" />
-
-                <EditText
-                    android:id="@+id/regAge"
+                    android:id="@+id/PatientAge"
                     android:layout_width="fill_parent"
                     android:layout_height="50dp"
                     android:singleLine="true"
@@ -102,7 +73,7 @@
                     android:inputType="number" />
 
                 <Spinner
-                    android:id="@+id/regGender"
+                    android:id="@+id/PatientGender"
                     android:layout_width="fill_parent"
                     android:layout_height="50dp"
                     android:singleLine="true"
@@ -116,37 +87,23 @@
                     android:background="@drawable/rectgray"
                     android:inputType="text" />
 
-                <EditText
-                    android:id="@+id/regClinicName"
-                    android:layout_width="fill_parent"
-                    android:layout_height="50dp"
-                    android:singleLine="true"
-                    android:paddingLeft="20dp"
-                    android:textColor="#000"
-                    android:hint="Clinic Name"
-                    android:textColorHint="#000"
-                    android:textColorHighlight="@color/colorPrimary"
-                    android:layout_marginTop="15dp"
-                    android:background="@drawable/rectgray"
-                    android:inputType="text" />
-
                 <Spinner
-                    android:id="@+id/regClinicType"
+                    android:id="@+id/PatientBlood"
                     android:layout_width="fill_parent"
                     android:layout_height="50dp"
                     android:singleLine="true"
                     android:paddingLeft="20dp"
                     android:textColor="#000"
                     android:drawSelectorOnTop="false"
-                    android:entries="@array/clinicType"
+                    android:entries="@array/BloodGroup"
                     android:textColorHint="#000"
                     android:textColorHighlight="@color/colorPrimary"
                     android:layout_marginTop="15dp"
                     android:background="@drawable/rectgray"
-                     />
+                    />
 
                 <EditText
-                    android:id="@+id/regPhoneNumber"
+                    android:id="@+id/PatientPhoneNumber"
                     android:layout_width="fill_parent"
                     android:layout_height="50dp"
                     android:singleLine="true"
@@ -159,27 +116,65 @@
                     android:background="@drawable/rectgray"
                     android:inputType="phone" />
 
+                <EditText
+                    android:id="@+id/PatientAddress"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:singleLine="true"
+                    android:paddingLeft="20dp"
+                    android:textColor="#000"
+                    android:hint="Address"
+                    android:textColorHint="#000"
+                    android:textColorHighlight="@color/colorPrimary"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/rectgray"
+                    android:inputType="text" />
 
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/rectgray"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:text="Select Date"
+                        android:textSize="12dp"
+                        android:onClick="setdate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:id="@+id/tvdate"
+                        android:paddingLeft="5dp"
+                        android:textColor="#000"
+                        android:textSize="20dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
 
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="22dp"
                     android:background="#d67601"
-                    android:text="Register"
+                    android:text="Save"
                     android:layout_marginTop="5dp"
                     android:textAllCaps="true"
                     android:textColor="#fff"
                     android:textSize="20dp"
-                    android:onClick="Registered"
+                    android:onClick="done"
                     />
+
+
             </LinearLayout>
 
 
         </ScrollView>
 
         <ProgressBar
-            android:id="@+id/progressbar"
+            android:id="@+id/Patientprogressbar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
@@ -200,3 +195,8 @@
         android:src="@drawable/createe" />
 
 </RelativeLayout>
+
+
+
+
+
