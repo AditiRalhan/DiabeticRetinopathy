@@ -24,7 +24,9 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".DashboardActivity" />
-        <activity android:name=".PatientFormActivity"></activity>
+        <activity android:name=".PatientFormActivity" />
+        <activity android:name=".PatientRecordActivity" />
+        <activity android:name=".TestActivity"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,445 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\8a9b6fb847a31a71ca49eed4c1e1026f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\6d2395fa32aa9a9e165cc0bca2f6b46c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\design-27.1.1.aar\39214c6054329e5e344792a661ac01f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\fc638793f8dfe4c90038c23ea091a044\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebdf1dfa26eba83a6564f3d965d4b77d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e6f3a792ab48fd2534aff823c404586c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d9b54038e5ba4721089c6cf359da2a9f\AndroidManifest.xml:2:1-11:12
+MERGED from [:openCVLibrary310] G:\work\Retina\RetinaProject\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\785af22858fa35e631b25d4f37260adb\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\02e654ed0761d7479015c10e9e561f35\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\89373672ec386d86690a7fb0328096ee\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\ee815e2782898f41d66d8d480a39a431\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\f70d1fbcdc148aac6aba388e1c0c5999\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bf2992768f5496d5de25578280a1c31b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\42fb9f9178881bd8a41eeae0431628d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\48015c6900ab64752362390f973b92bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\7f8866e17cfd4aeca275af1154e1040c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e498e30d8396cfca56469532d3c5b5a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4d6fa3c5520b1191c711b1635066e83a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\74ff5466a79673fd26b30712dc0f8573\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\526933c8942ebed40f877f916db318bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\140efadf62395d4e8ffc91a5346ee505\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5b25cd5fddda33851e51dbdffe7ade81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\66c9798290562a12fe9fe3276eeeb05b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\8e0b64953db0ddb0fabe852bf5228363\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\db09a8c6760394004151593b71bdca7e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6ae1cc80007f264ed3e0d8dcfba61e3a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\5379aa6fbe2f9e8dfa492ad82b73152f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4c2b4eaf048291ded651b290e7afa123\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\0c3173784429e2e62aa67ea962b8643e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\83e1c897ab532811b3444ab60578ad1b\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6b5987a9aa084d77c9a51bf632698c5b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\136dc2ba48916519311c4eb99e287108\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\400f5140931af2a46772c1f49f22d333\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc2a9520df279ec2a7ae5a0fb3b38a26\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b18948590c5789d5335c025c492d1db1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\b432f566779ccb8f6cfcc971b9c85582\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:6:9-47
+application
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:9:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\8a9b6fb847a31a71ca49eed4c1e1026f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\8a9b6fb847a31a71ca49eed4c1e1026f\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d9b54038e5ba4721089c6cf359da2a9f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d9b54038e5ba4721089c6cf359da2a9f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\02e654ed0761d7479015c10e9e561f35\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\02e654ed0761d7479015c10e9e561f35\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\ee815e2782898f41d66d8d480a39a431\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\ee815e2782898f41d66d8d480a39a431\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\f70d1fbcdc148aac6aba388e1c0c5999\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\f70d1fbcdc148aac6aba388e1c0c5999\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\7f8866e17cfd4aeca275af1154e1040c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\7f8866e17cfd4aeca275af1154e1040c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\8e0b64953db0ddb0fabe852bf5228363\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\8e0b64953db0ddb0fabe852bf5228363\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\db09a8c6760394004151593b71bdca7e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\db09a8c6760394004151593b71bdca7e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6ae1cc80007f264ed3e0d8dcfba61e3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6ae1cc80007f264ed3e0d8dcfba61e3a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\5379aa6fbe2f9e8dfa492ad82b73152f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\5379aa6fbe2f9e8dfa492ad82b73152f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4c2b4eaf048291ded651b290e7afa123\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4c2b4eaf048291ded651b290e7afa123\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\0c3173784429e2e62aa67ea962b8643e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\0c3173784429e2e62aa67ea962b8643e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\83e1c897ab532811b3444ab60578ad1b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\83e1c897ab532811b3444ab60578ad1b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\400f5140931af2a46772c1f49f22d333\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\400f5140931af2a46772c1f49f22d333\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\b432f566779ccb8f6cfcc971b9c85582\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\b432f566779ccb8f6cfcc971b9c85582\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.sarthak.retinaproject.MainActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:16:9-50
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:16:19-47
+activity#com.example.sarthak.retinaproject.SplashActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:17:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.sarthak.retinaproject.LoginActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:24:19-48
+activity#com.example.sarthak.retinaproject.RegisterActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:25:19-51
+activity#com.example.sarthak.retinaproject.DashboardActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:26:19-52
+activity#com.example.sarthak.retinaproject.PatientFormActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:27:9-57
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:27:19-54
+activity#com.example.sarthak.retinaproject.PatientRecordActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:28:9-59
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:28:19-56
+activity#com.example.sarthak.retinaproject.TestActivity
+ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml:29:19-47
+uses-sdk
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\8a9b6fb847a31a71ca49eed4c1e1026f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\8a9b6fb847a31a71ca49eed4c1e1026f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\6d2395fa32aa9a9e165cc0bca2f6b46c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\6d2395fa32aa9a9e165cc0bca2f6b46c\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\design-27.1.1.aar\39214c6054329e5e344792a661ac01f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\design-27.1.1.aar\39214c6054329e5e344792a661ac01f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\fc638793f8dfe4c90038c23ea091a044\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\fc638793f8dfe4c90038c23ea091a044\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebdf1dfa26eba83a6564f3d965d4b77d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebdf1dfa26eba83a6564f3d965d4b77d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e6f3a792ab48fd2534aff823c404586c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e6f3a792ab48fd2534aff823c404586c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d9b54038e5ba4721089c6cf359da2a9f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d9b54038e5ba4721089c6cf359da2a9f\AndroidManifest.xml:5:5-7:41
+MERGED from [:openCVLibrary310] G:\work\Retina\RetinaProject\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary310] G:\work\Retina\RetinaProject\openCVLibrary310\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\785af22858fa35e631b25d4f37260adb\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\785af22858fa35e631b25d4f37260adb\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\02e654ed0761d7479015c10e9e561f35\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\02e654ed0761d7479015c10e9e561f35\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\89373672ec386d86690a7fb0328096ee\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\89373672ec386d86690a7fb0328096ee\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\ee815e2782898f41d66d8d480a39a431\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\ee815e2782898f41d66d8d480a39a431\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\f70d1fbcdc148aac6aba388e1c0c5999\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\f70d1fbcdc148aac6aba388e1c0c5999\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bf2992768f5496d5de25578280a1c31b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bf2992768f5496d5de25578280a1c31b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\42fb9f9178881bd8a41eeae0431628d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\42fb9f9178881bd8a41eeae0431628d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\48015c6900ab64752362390f973b92bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\transition-27.1.1.aar\48015c6900ab64752362390f973b92bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\7f8866e17cfd4aeca275af1154e1040c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\7f8866e17cfd4aeca275af1154e1040c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e498e30d8396cfca56469532d3c5b5a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e498e30d8396cfca56469532d3c5b5a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4d6fa3c5520b1191c711b1635066e83a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4d6fa3c5520b1191c711b1635066e83a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\74ff5466a79673fd26b30712dc0f8573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\74ff5466a79673fd26b30712dc0f8573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\526933c8942ebed40f877f916db318bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\526933c8942ebed40f877f916db318bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\140efadf62395d4e8ffc91a5346ee505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\140efadf62395d4e8ffc91a5346ee505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5b25cd5fddda33851e51dbdffe7ade81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5b25cd5fddda33851e51dbdffe7ade81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\66c9798290562a12fe9fe3276eeeb05b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\66c9798290562a12fe9fe3276eeeb05b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\8e0b64953db0ddb0fabe852bf5228363\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\8e0b64953db0ddb0fabe852bf5228363\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\db09a8c6760394004151593b71bdca7e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\db09a8c6760394004151593b71bdca7e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6ae1cc80007f264ed3e0d8dcfba61e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6ae1cc80007f264ed3e0d8dcfba61e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\5379aa6fbe2f9e8dfa492ad82b73152f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\5379aa6fbe2f9e8dfa492ad82b73152f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4c2b4eaf048291ded651b290e7afa123\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4c2b4eaf048291ded651b290e7afa123\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\0c3173784429e2e62aa67ea962b8643e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\0c3173784429e2e62aa67ea962b8643e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\83e1c897ab532811b3444ab60578ad1b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\83e1c897ab532811b3444ab60578ad1b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6b5987a9aa084d77c9a51bf632698c5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\6b5987a9aa084d77c9a51bf632698c5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\136dc2ba48916519311c4eb99e287108\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\136dc2ba48916519311c4eb99e287108\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\400f5140931af2a46772c1f49f22d333\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\400f5140931af2a46772c1f49f22d333\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc2a9520df279ec2a7ae5a0fb3b38a26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bc2a9520df279ec2a7ae5a0fb3b38a26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b18948590c5789d5335c025c492d1db1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b18948590c5789d5335c025c492d1db1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\b432f566779ccb8f6cfcc971b9c85582\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\b432f566779ccb8f6cfcc971b9c85582\AndroidManifest.xml:20:5-44
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+		ADDED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+		INJECTED from G:\work\Retina\RetinaProject\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\10e9484d571d2eb907563ae7963ed4e4\AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\7190bee19a737b08b2d9d9b4a6480011\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\1757f81c7eba886a33d3143415dfeed7\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\a4844635d880397dbf05195d1d089c0b\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:29:9-63
+permission#com.example.sarthak.retinaproject.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:32:22-76
+uses-permission#com.example.sarthak.retinaproject.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.sarthak.retinaproject
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:42:27-58
+category#com.example.sarthak.retinaproject
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\6fe3ce2d66f8e3af15e1d3f4647183ad\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\43bf0e60c37530351d6910155559482f\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\ADITI RALHAN\.gradle\wrapper\dists\gradle-3.3-all\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\11feb902c46df3c6791edf6ad2a91a09\AndroidManifest.xml:24:13-58

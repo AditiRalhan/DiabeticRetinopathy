@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">700904906219-127f74dli31elv6dl2a0ubevhrt2urkh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://retinaproject-13701.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">700904906219</string>
+    <string name="google_api_key" translatable="false">AIzaSyCS4GaNBPba2_PCWGLclvZIISArrKvx-1k</string>
+    <string name="google_app_id" translatable="false">1:700904906219:android:716893032a119ec1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCS4GaNBPba2_PCWGLclvZIISArrKvx-1k</string>
+    <string name="google_storage_bucket" translatable="false">retinaproject-13701.appspot.com</string>
+    <string name="project_id" translatable="false">retinaproject-13701</string>
+</resources>
